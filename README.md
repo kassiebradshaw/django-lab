@@ -2,7 +2,7 @@
 
 *Author*: Kassie Bradshaw
 
-[Link to Pull Request]()
+[Link to Pull Request](https://github.com/kassiebradshaw/django-lab/pull/1)
 
 ## Overview
 
@@ -10,13 +10,13 @@ We're going to build out a small, but functional, multi-page website using Djang
 
 ## Feature Tasks & Requirements
 
-* [ ] Create website in Django with 2 pages
-  * [ ] Home page
-  * [ ] About page
+* [x] Create website in Django with 2 pages
+  * [x] Home page
+  * [x] About page
 
-* [ ] Create views/urls/templates as needed for 'home' and 'about' pages
-* [ ] Use ancestor template to contain navigation elements
-* [ ] Should be built the "Django way" aka match the structure of in-class demo
+* [x] Create views/urls/templates as needed for 'home' and 'about' pages
+* [x] Use ancestor template to contain navigation elements
+* [x] Should be built the "Django way" aka match the structure of in-class demo
 
 ## Implementation Notes
 
@@ -34,8 +34,8 @@ Typical steps to start Django project:
 
 Use Django's built in testing tools
 
-* [ ] Test `home` and `about` url status codes
-* [ ] Test `home` and `avout` url template use, including ancestor template
+* [x] Test `home` and `about` url status codes
+* [x] Test `home` and `about` url template use, including ancestor template
 
 ## Stretch Goals
 

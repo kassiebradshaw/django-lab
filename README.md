@@ -39,6 +39,6 @@ Use Django's built in testing tools
 
 ## Stretch Goals
 
-* [ ] Create additional apps in project
-* [ ] Pass additional info along to views and render it
-* [ ] Extend additional blocks in templates
+* [x] Create additional apps in project
+* [x] Pass additional info along to views and render it
+* [x] Extend additional blocks in templates
